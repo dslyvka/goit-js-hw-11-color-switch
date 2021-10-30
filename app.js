@@ -4,8 +4,6 @@ const bodyRef = document.querySelector('body');
 
 let intervalId = null;
 
-console.log(bodyRef);
-
 const colors = [
   '#FFFFFF',
   '#2196F3',
